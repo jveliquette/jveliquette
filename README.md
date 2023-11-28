@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Julia Veliquette.
-- 👀 I’m interested in both front-end and back-end engineering, and I love design.
-- 🌱 I’m currently learning React and building upon my skills in Javascript and Typescript.
-- 📫 Reach me on LinkedIn or take a look at my portfolio site!
+<h1>👋 Hi, I’m Julia Veliquette.</h1>
+<p> - 👀 I’m interested in both front-end and back-end engineering, and I love design. </p>
+<p> - 🌱 I’m currently learning React and building upon my skills in Javascript and Typescript. </p>
+<p> - 📫 Reach me on LinkedIn or take a look at my portfolio site! </p>
 
 Skills:
 ----------
