@@ -24,7 +24,7 @@ Experience with:
 ----------
 <table>
   <tr>
-    <td><img src="https://github.com/jveliquette/jveliquette/assets/143216711/977224fc-498f-43e4-a832-b15747a61dbe" alt="GitLab" width = 100 height = 100> <p>GitLab</p> </td>
+    <td><img src="https://github.com/jveliquette/jveliquette/assets/143216711/977224fc-498f-43e4-a832-b15747a61dbe" alt="GitLab" width = 50 height = 50> <p>GitLab</p> </td>
   </tr>
 </table>
 
