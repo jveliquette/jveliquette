@@ -18,6 +18,10 @@ Skills:
     <td><img src="https://github.com/jveliquette/jveliquette/assets/143216711/0afee315-7ed2-4d74-8fad-9b972c0457f9" alt="Node.JS" width = 50 height = 50> <p>Node.JS</p> </td>
     <td><img src="https://github.com/jveliquette/jveliquette/assets/143216711/8f08f788-92f1-4969-8281-bf866e3407f7" alt="OOP" width = 50 height = 50> <p>OOP</p> </td>
   </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width = 50 height 50><p>Python</p></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" width = 50 height 50><p>Django</p></td>
+  </tr>
 </table>
 
 Experience with:
