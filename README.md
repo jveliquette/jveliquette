@@ -29,6 +29,7 @@ Experience with:
 <table>
   <tr>
     <td><img src="https://github.com/jveliquette/jveliquette/assets/143216711/977224fc-498f-43e4-a832-b15747a61dbe" alt="GitLab" width = 50 height = 50> <p>GitLab</p> </td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width = 50 height = 50> <p>Docker</p> </td>
   </tr>
 </table>
 
