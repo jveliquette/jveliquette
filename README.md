@@ -21,7 +21,7 @@ Skills:
   <tr>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width = 50 height 50><p>Python</p></td>
     <td><img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" width = 50 height 50><p>Django</p></td>
-    <td><img src="file:///Users/juliaveliquette/Downloads/react.svg" alt="React" width = 50 height 50><p>React</p></td>
+    <td><img src="https://www.pngwing.com/en/free-png-cgbgg" alt="React" width = 50 height 50><p>React</p></td>
   </tr>
 </table>
 
