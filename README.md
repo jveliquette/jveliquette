@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Julia Veliquette.</h1>
+<h1>👋 Hi, I’m Julia Foster</h1>
 <p> - 👀 I’m interested in both front-end and back-end engineering, and I love design. </p>
 <p> - 🌱 I’m currently learning Python and Django and building upon my skills in Javascript and Typescript. </p>
 <p> - 📫 Reach me on LinkedIn or take a look at my portfolio site! </p>
